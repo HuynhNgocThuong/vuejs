@@ -58,3 +58,12 @@ npm run build
 |Refactoring to Use The Backend     |   
 |Implementing the Router            |
 |Restrict a Component to a Route    |
+
+## Result
+
+### Add task
+![Screenshot_10](https://user-images.githubusercontent.com/22877952/135743178-88dafdf4-4896-44a8-a0d2-0c2b14be6f24.png)
+
+### Create task
+![Screenshot_11](https://user-images.githubusercontent.com/22877952/135743193-240cdacc-7bf8-4501-b8e0-bcf50cf26e2c.png)
+
